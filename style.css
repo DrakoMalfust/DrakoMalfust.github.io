@@ -1,0 +1,18 @@
+ .red {
+    color: brown;
+}
+.font-bold {
+    color: aquamarine;
+    font-size: 34px;
+}
+.fond-style {
+    font-style: italic;
+}
+.flex {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.blue {
+    background-color: aqua;
+}
